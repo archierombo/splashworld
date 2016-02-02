@@ -1,0 +1,47 @@
+.row {
+    max-width: 95rem;
+}
+#slider{
+    height:500px
+}
+.top-bar {
+    background: transparent;
+    margin-top: 15px;
+}
+.top-bar-section ul li {
+    background: transparent;
+}
+@media only screen and (min-width: 40.0625em) {
+    .top-bar-section li.active:not(.has-form) a:not(.button) {
+        background: transparent;
+        color: #0973ba;
+
+    }
+    .top-bar-section li:not(.has-form) a:not(.button) {
+        background: transparent;
+        font-size: 20px;
+
+    }
+    .top-bar-section li.active:not(.has-form) a:hover:not(.button) {
+        background: transparent;
+        color: #FFFFFF;
+    }
+    .top-bar-section li:not(.has-form) a:hover:not(.button) {
+        background-color: transparent;
+        background: transparent;
+        color: #0973ba;
+    }
+    
+}
+.top-bar-section ul li.active > a {
+    background: transparent;
+    color: #0973ba;
+}
+.top-bar-section ul {
+    padding-top: 25px;
+}
+.mjs-widget-content {
+    height: 47px;
+    width: 270px;
+    background: url('../img/img1.jpg') no-repeat center center;
+}
