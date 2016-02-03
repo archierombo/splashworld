@@ -45,3 +45,14 @@
     width: 270px;
     background: url('../img/img1.jpg') no-repeat center center;
 }
+.circle{
+    width: 120px;
+    height: 120px;
+    border: 1px solid #0973ba;
+    border-radius: 50%;
+    padding-left: 26px;
+    padding-top: 20px;
+    color: white;
+    background-color: #0973ba;
+
+}
