@@ -18,13 +18,14 @@
     <link href='https://fonts.googleapis.com/css?family=Fjalla+One' rel='stylesheet' type='text/css'>
   </head>
   <body>
-    
-    <div class="row" id="slider" style="height:500px;"><!--Main Menu-->
+
+    <div class="row" id="slider" style="height:550px;"><!--Main Menu-->
       <div class=" small-12 medium-12 large-12 columns">
+        <div class="">
         <nav class="top-bar" data-topbar role="navigation">
           <ul class="title-area">
             <li class="name">
-              <h1><a href="index.html"><img src="images/splash_logo.png" style="height: 120px;"> </a></h1>
+              <a href="index.php"><img src="images/splash_logo.png" style="height: 90px;padding-left: 25px;"> </a>
             </li>
             <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
             <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
@@ -33,13 +34,14 @@
           <section class="top-bar-section">
             <!-- Right Nav Section -->
             <ul class="right">
-              <li class="active"><a href="index.html">Home</a></li>
-              <li><a href="#">About Us</a></li>
-              <li><a href="#">Our Packages</a></li>
-              <li><a href="#">Contact Us</a></li>
+              <li class="active"><a href="index.php">Home</a></li>
+              <li><a href="about-us.php">About Us</a></li>
+              <li><a href="packages.php">Our Packages</a></li>
+              <li><a href="contact-us.php">Contact Us</a></li>
             </ul>
           </section>
         </nav>
+        </div>
       </div>
     </div><!--Main Menu-->
     <div class="row" style="margin-top: 40px;"><!--Why Book With Us Title-->
@@ -59,15 +61,15 @@
       <div class="small-10 medium-10 columns">
         <div class="row" style="padding-left: 125px;">
           <div class="small-4 medium-4 columns hvr-shrink">
-            <i class="fa fa-plane fa-5x circle"></i>
+            <i class="fa fa-plane fa-4x circle"></i>
             <p style="font-family: 'Fjalla One', sans-serif;padding-top: 11px;font-size: 26px;">Travel</p>
           </div>
           <div class="small-4 medium-4 columns hvr-shrink">
-            <i class="fa fa-bus fa-5x circle"></i>
+            <i class="fa fa-bus fa-4x circle"></i>
             <p style="font-family: 'Fjalla One', sans-serif;padding-top: 11px;font-size: 26px;">Tours</p>
           </div>
           <div class="small-4 medium-4 columns hvr-shrink">
-            <i class="fa fa-umbrella fa-5x circle"></i>
+            <i class="fa fa-umbrella fa-4x circle"></i>
             <p style="font-family: 'Fjalla One', sans-serif;padding-top: 11px;font-size: 26px;">Holidays</p>
           </div>
         </div>
@@ -84,11 +86,11 @@
     <div class="row" style="padding-top: 30px;"><!--Special Offers-->
       <div class="small-3 medium-3 columns"><!--one-->
         <div class="special_offers" style="width: 268px;height: 350px;top: 1251px;left: 19px;z-index: 20028;border-width: 0px 1px;border-style: solid;border-color: rgb(237, 237, 237);">
-           <img src="img/page1_img1.jpg">
+           <img src="packages_images/Breezes_Beach_Resort_Zanzibar.jpg" style="height: 200px;">
           <div class="special_content" style="width: 230px;height: 44px;top: 1303px;left: 38px;z-index: 20033;">
-            <p style="font-family: 'Cuprum';font-size: 20px;color: #5785a9;"><b>Thailand</b></p>
-            <p style="font-family: 'Arial';font-size: 13px;color: #a3a3a3;text-align: left;">Lorem ipsum dolor sit amet, consect-etuer adipiscing elit.</p>
-            <p style="text-align: left;font-family: 'Cuprum';font-size: 20px;color: #fec02a;">From  $550</p>
+            <p style="font-family: 'Cuprum';font-size: 20px;color: #5785a9;"><b>Zanzibar Package</b></p>
+            <p style="font-family: 'Arial';font-size: 13px;color: #a3a3a3;text-align: left;">Valid until 31st Mar 16 2016</p>
+            <p style="text-align: left;font-family: 'Cuprum';font-size: 19px;color: #fec02a">From  $545 P/P Sharing</p>
             <div class="mjs-widget-content">
               <a href="#" class="button" style="height: 100%;background-color: transparent;">
                 <div style="vertical-align: middle;font-weight: bold;font-style: normal;text-decoration: none;margin-top: -1px;line-height: 1.2;text-align: left;font-family: 'Cuprum';font-size: 20px;
@@ -102,11 +104,11 @@
       </div><!--one-->
       <div class="small-3 medium-3 columns"><!--two-->
         <div class="special_offers" style="width: 268px;height: 350px;top: 1251px;left: 19px;z-index: 20028;border-width: 0px 1px;border-style: solid;border-color: rgb(237, 237, 237);">
-          <img src="img/page1_img2.jpg">
+          <img src="packages_images/Da_VinciHotelOnNelsonMandela_Square.jpg" style="height: 200px;">
           <div class="special_content" style="width: 230px;height: 44px;top: 1303px;left: 38px;z-index: 20033;">
-            <p style="font-family: 'Cuprum';font-size: 20px;color: #5785a9;"><b>New York</b></p>
-            <p style="font-family: 'Arial';font-size: 13px;color: #a3a3a3;text-align: left;">Lorem ipsum dolor sit amet, consect-etuer adipiscing elit.</p>
-            <p style="text-align: left;font-family: 'Cuprum';font-size: 20px;color: #fec02a;">From  $550</p>
+            <p style="font-family: 'Cuprum';font-size: 19px;color: #5785a9;"><b>South Africa Package</b></p>
+            <p style="font-family: 'Arial';font-size: 13px;color: #a3a3a3;text-align: left;">Valid until 31st Mar 16 2016</p>
+            <p style="text-align: left;font-family: 'Cuprum';font-size: 19px;color: #fec02a;">From  $645 P/P Sharing</p>
             <div class="mjs-widget-content">
               <a href="#" class="button" style="height: 100%;background-color: transparent;">
                 <div style="vertical-align: middle;font-weight: bold;font-style: normal;text-decoration: none;margin-top: -1px;line-height: 1.2;text-align: left;font-family: 'Cuprum';font-size: 20px;
@@ -119,11 +121,11 @@
         </div><!--two-->
       <div class="small-3 medium-3 columns"><!--three-->
         <div class="special_offers" style="width: 268px;height: 350px;top: 1251px;left: 19px;z-index: 20028;border-width: 0px 1px;border-style: solid;border-color: rgb(237, 237, 237);">
-        <img src="img/page1_img3.jpg">
+        <img src="packages_images/voyager_beach_pool.jpg" style="height: 200px;">
         <div class="special_content" style="width: 230px;height: 44px;top: 1303px;left: 38px;z-index: 20033;">
-          <p style="font-family: 'Cuprum';font-size: 20px;color: #5785a9;"><b>Paris</b></p>
-          <p style="font-family: 'Arial';font-size: 13px;color: #a3a3a3;text-align: left;">Lorem ipsum dolor sit amet, consect-etuer adipiscing elit.</p>
-          <p style="text-align: left;font-family: 'Cuprum';font-size: 20px;color: #fec02a;">From  $550</p>
+          <p style="font-family: 'Cuprum';font-size: 20px;color: #5785a9;"><b>Mombasa Package</b></p>
+          <p style="font-family: 'Arial';font-size: 13px;color: #a3a3a3;text-align: left;">Valid until 31st Aug 16 2016</p>
+          <p style="text-align: left;font-family: 'Cuprum';font-size: 19px;color: #fec02a">From  $475 P/P Sharing</p>
           <div class="mjs-widget-content">
             <a href="#" class="button" style="height: 100%;background-color: transparent;">
               <div style="vertical-align: middle;font-weight: bold;font-style: normal;text-decoration: none;margin-top: -1px;line-height: 1.2;text-align: left;font-family: 'Cuprum';font-size: 20px;
@@ -136,11 +138,11 @@
       </div><!--three-->
       <div class="small-3 medium-3 columns"><!--four-->
         <div class="special_offers" style="width: 268px;height: 350px;top: 1251px;left: 19px;z-index: 20028;border-width: 0px 1px;border-style: solid;border-color: rgb(237, 237, 237);">
-          <img src="img/page1_img4.jpg">
+          <img src="packages_images/SouthernSunWaterfrontCapeTown.jpg" style="height: 200px">
           <div class="special_content" style="width: 230px;height: 44px;top: 1303px;left: 38px;z-index: 20033;">
-            <p style="font-family: 'Cuprum';font-size: 20px;color: #5785a9;"><b>Hawaii</b></p>
-            <p style="font-family: 'Arial';font-size: 13px;color: #a3a3a3;text-align: left;">Lorem ipsum dolor sit amet, consect-etuer adipiscing elit.</p>
-            <p style="text-align: left;font-family: 'Cuprum';font-size: 20px;color: #fec02a;">From  $550</p>
+            <p style="font-family: 'Cuprum';font-size: 19px;color: #5785a9;"><b>South Africa Package</b></p>
+            <p style="font-family: 'Arial';font-size: 13px;color: #a3a3a3;text-align: left;">Valid until 31st Aug 16 2016</p>
+            <p style="text-align: left;font-family: 'Cuprum';font-size: 19px;color: #fec02a;">From  $475 P/P Sharing</p>
             <div class="mjs-widget-content">
               <a href="#" class="button" style="height: 100%;background-color: transparent;">
                 <div style="vertical-align: middle;font-weight: bold;font-style: normal;text-decoration: none;margin-top: -1px;line-height: 1.2;text-align: left;font-family: 'Cuprum';font-size: 20px;
@@ -152,10 +154,14 @@
         </div>
       </div><!--four-->
     </div><!--Special Offers-->
-    
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <?php include_once 'footer.php' ?>
     <script src="js/vendor/jquery.js"></script>
 
     <script src="js/foundation.min.js"></script>
+    <script src="js/foundation/foundation.topbar.js"></script>
     <script>
       $(document).foundation();
     </script>
@@ -167,14 +173,15 @@
     <script>
       $("#slider").vegas({
         slides:[
-          { src: './images/ET%20Airlines.jpg' },
-          { src: './images/man.jpg' },
-          { src: './images/interior.jpg' },
-          { src: './images/interior_1.jpg' }
+          { src: './slideshow/airline_header.jpg' },
+          { src: './slideshow/family holiday.jpg' },
+          { src: './slideshow/kq2.jpg' },
+          { src: './slideshow/kq.jpg' },
+          {src: './slideshow/kenya-airways-boeing-777.jpg'}
         ],
         timer:false,
         shuffle:true,
-        transition: [ 'fade','fade2', 'slideLeft', 'slideLeft2' ],
+        transition: [ 'fade','fade2' ],
         cover:true,
         transitionDuration: 3000,
         delay:7000,

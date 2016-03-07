@@ -364,8 +364,8 @@ Gh-pages creation
 git checkout --orphan gh-pages
 git rm -rf .
 rm -fr
-echo 'Welcome' > index.html
-git add index.html
+echo 'Welcome' > index.php
+git add index.php
 git commit -a -m 'First commit'
 git push origin gh-pages
 git checkout -
