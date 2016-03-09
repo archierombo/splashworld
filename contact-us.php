@@ -11,7 +11,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Splashworld | Contact Us</title>
+    <title>Splash World Ltd |Travel Tours &amp; Leisure | Contact Us</title>
     <link rel="stylesheet" href="css/foundation.css" />
     <!--custom css-->
     <link href="css/custom.css" rel="stylesheet">
@@ -64,14 +64,14 @@
 
           <p class="address"></p>
           <!-- <i class="fa fa-home fa-2x" style="width:70px;height:70px;border-radius:50%;color:#fff;padding-left:20px;border:2px solid #fff;padding-top:17px;font-size:2.5em;"></i> -->
-          <p style="color:#FFF;padding-left:70px;">Splash World Ltd,IPS Building, 5th Floor Kimathi Street, Nairobi</p>
+          <p style="color:#FFF;padding-left:70px;">Splash World Limited<br>Location:IPS Building, 5th Floor Kimathi Street, Nairobi<br>P.O. BOX 105697-00101 NAIROBI, KENYA</p>
 
 
 
     </div><!--home location-->
     <div class="small-4 medium-4 columns"><!--phone-->
       <p class="phone"></p>
-      <p style="color:#FFF;padding-left:70px">+254 (0)734 775673/+254 (0)20 2186163</p>
+      <p style="color:#FFF;padding-left:70px"><i class="fa fa-phone fa-lg"></i>&nbsp;020 2186163<br><i class="fa fa-mobile fa-lg"></i>&nbsp;+254 722775673<br><i class="fa fa-skype fa-lg"></i>&nbsp;SPLASH WORLD LIMITED</p>
     </div><!--phone-->
     <div class="small-4 medium-4 columns"><!--Email-->
       <p class="email"></p>
@@ -123,14 +123,3 @@
 
 
 <?php include_once 'footer.php' ?>
-<!--scripts-->
-<script src="js/vendor/jquery.js"></script>
-
-<script src="js/foundation.min.js"></script>
-<script src="js/foundation/foundation.topbar.js"></script>
-<script src="js/foundation/foundation.equalizer.js"></script>
-<script>
-    $(document).foundation();
-</script>
-</body>
-</html>

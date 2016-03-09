@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Splashworld | Welcome Home</title>
+    <title>Splash World Ltd |Travel Tours &amp; Leisure</title>
     <link rel="stylesheet" href="css/foundation.css" />
     <!--custom css-->
     <link href="css/custom.css" rel="stylesheet">
@@ -80,7 +80,7 @@
     <div class="row"><!--Special Offers Packages-->
       <div class="small-12 medium-12 columns">
         <h3 style="text-align: left;font-family: 'Cuprum';font-size: 38px;color: #5785a9; font-weight: bold;">SPECIAL OFFERS</h3>
-        <div style="width:93rem;height: 1px;top: 1012px;left: 20px; z-index: 20020;background: rgb(237, 237, 237);"></div>
+        <div style="width:83rem;height: 1px;top: 1012px;left: 20px; z-index: 20020;background: rgb(237, 237, 237);"></div>
       </div>
     </div><!--Special Offers Packages-->
     <div class="row" style="padding-top: 30px;"><!--Special Offers-->
@@ -158,35 +158,3 @@
     <p>&nbsp;</p>
     <p>&nbsp;</p>
     <?php include_once 'footer.php' ?>
-    <script src="js/vendor/jquery.js"></script>
-
-    <script src="js/foundation.min.js"></script>
-    <script src="js/foundation/foundation.topbar.js"></script>
-    <script>
-      $(document).foundation();
-    </script>
-    <script src="http://code.jquery.com/jquery.min.js"></script>
-    <!--vegas css-->
-    <link href="vegas/dist/vegas.css" rel="stylesheet">
-    <!--vegas js-->
-    <script src="vegas/dist/vegas.js"></script>
-    <script>
-      $("#slider").vegas({
-        slides:[
-          { src: './slideshow/airline_header.jpg' },
-          { src: './slideshow/family holiday.jpg' },
-          { src: './slideshow/kq2.jpg' },
-          { src: './slideshow/kq.jpg' },
-          {src: './slideshow/kenya-airways-boeing-777.jpg'}
-        ],
-        timer:false,
-        shuffle:true,
-        transition: [ 'fade','fade2' ],
-        cover:true,
-        transitionDuration: 3000,
-        delay:7000,
-        preload:true
-      });
-    </script>
-  </body>
-</html>

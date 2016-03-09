@@ -11,7 +11,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Splashworld | Our Packages</title>
+    <title>Splash World Ltd |Travel Tours &amp; Leisure | Our Packages</title>
     <link rel="stylesheet" href="css/foundation.css" />
     <!--custom css-->
     <link href="css/custom.css" rel="stylesheet">
@@ -238,14 +238,3 @@
 </div>
 </div><!--package 6-->
 <?php include_once 'footer.php' ?>
-<!--scripts-->
-<script src="js/vendor/jquery.js"></script>
-
-<script src="js/foundation.min.js"></script>
-<script src="js/foundation/foundation.topbar.js"></script>
-<script src="js/foundation/foundation.equalizer.js"></script>
-<script>
-    $(document).foundation();
-</script>
-</body>
-</html>

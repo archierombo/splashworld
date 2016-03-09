@@ -5,7 +5,8 @@ html{
 }
 body{
     /*font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;*/
-    font-family:'Lato', sans-serif;
+/*    font-family:'Lato', sans-serif;*/
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 13px;
     margin-bottom: 60px;
 }
@@ -64,6 +65,11 @@ body{
     }
     .top-bar-section ul li > a{
         color: #FFFFFF;
+font-size: 1.1em;
+padding: 8px 15px 10px;
+display: inline-block;
+font-weight: 700;
+font-family: "Lato",helvetica,arial;
     }
 }
 .top-bar-section ul li.active > a {
