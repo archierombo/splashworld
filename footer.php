@@ -36,7 +36,7 @@
       $("#slider").vegas({
         slides:[
           { src: './slideshow/airline_header.jpg' },
-          { src: './slideshow/family holiday.jpg' },
+          { src: './slideshow/family_holiday.jpg' },
           { src: './slideshow/kq2.jpg' },
           { src: './slideshow/kq.jpg' },
           {src: './slideshow/kenya-airways-boeing-777.jpg'}
