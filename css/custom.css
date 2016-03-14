@@ -23,17 +23,32 @@ body{
 .top-bar{
     min-height: 110px;
 }
+.top-bar-section ul li > a {
+    color: #FFFFFF;
+    font-size: 1.1em;
+    padding: 8px 15px 10px;
+    display: inline-block;
+    font-weight: 700;
+    font-family: "Lato",helvetica,arial;
+}
 @media only screen and (min-width: 40.0625em) {
     .top-bar-section li.active:not(.has-form) a:not(.button) {
         background: transparent;
         /*color: #0973ba;*/
         color: #FFFFFF;
-        text-decoration: underline;
+/*        text-decoration: underline;*/
 
     }
     .top-bar-section li:not(.has-form) a:not(.button) {
         background: transparent;
-        font-size: 20px;
+/*        font-size: 20px;*/
+        font-size: 1.1em;
+/*
+    padding: 8px 15px 10px;
+    display: inline-block;
+*/
+    font-weight: 700;
+    font-family: "Lato",helvetica,arial;
 
     }
     .top-bar-section li.active:not(.has-form) a:hover:not(.button) {
@@ -166,4 +181,15 @@ input:not([type]), input[type="text"], input[type="password"], input[type="date"
     box-shadow: none;
 
 
+}
+.home_page_offer_1{
+ width: 268px;height: 350px;top: 1251px;left: 19px;z-index: 20028;border-width: 0px 1px;border-style: solid;border-color: rgb(237, 237, 237);
+}
+.home_page_offer_1 img{
+    height: 200px;
+}
+@media only screen and (max-width:39.9375em){
+  .home_page_offer_1 img{
+    height: 250px;
+}
 }

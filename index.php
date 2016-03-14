@@ -103,8 +103,8 @@
         </div>
       </div><!--one-->
       <div class="small-3 medium-3 columns"><!--two-->
-        <div class="special_offers" style="width: 268px;height: 350px;top: 1251px;left: 19px;z-index: 20028;border-width: 0px 1px;border-style: solid;border-color: rgb(237, 237, 237);">
-          <img src="packages_images/Da_VinciHotelOnNelsonMandela_Square.jpg" style="height: 200px;">
+        <div class="special_offers home_page_offer_1">
+          <img src="packages_images/Da_VinciHotelOnNelsonMandela_Square.jpg">
           <div class="special_content" style="width: 230px;height: 44px;top: 1303px;left: 38px;z-index: 20033;">
             <p style="font-family: 'Cuprum';font-size: 19px;color: #5785a9;"><b>South Africa Package</b></p>
             <p style="font-family: 'Arial';font-size: 13px;color: #a3a3a3;text-align: left;">Valid until 31st Mar 16 2016</p>
