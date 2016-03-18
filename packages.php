@@ -24,6 +24,7 @@
     <link href="Hover/css/hover-min.css" rel="stylesheet">
     <!--Google Fonts-->
     <link href='https://fonts.googleapis.com/css?family=Fjalla+One' rel='stylesheet' type='text/css'>
+    <link rel="icon" href="img/favicon.ico" type="image/ico" sizes="16x16">
 </head>
 <body>
 
@@ -55,7 +56,7 @@
 <div class="row" style="padding-top: 111px;">
     <div class="small-12 medium-12 columns">
         <h3 class="subheader">2 Night  3 Days Road Safari to Masai Mara<small></small></h3>
-        <div class="row" data-equalizer data-equalizer-mq="large-up"><!--package 1-->
+        <div class="row" data-equalizer><!--package 1-->
             <div class="small-6 medium-6 columns panel" data-equalizer-watch>
                 <img src="packages_images/Wildebeests_Migration3.jpg">
                 <p><i><strong>Minimum:04  pax & 2 Nights</strong></i></p>
@@ -94,7 +95,7 @@
 <div class="row"><!--package 2-->
 <div class="small-12 medium-12 columns">
     <h3 class="subheader">SOUTH AFRICA-CAPETOWN<small> (Valid until 31st Aug 16)&nbsp;<i><strong>USD 475.00 per Person sharing</strong></i></small></h3>
-    <div class="row" data-equalizer data-equalizer-mq="large-up">
+    <div class="row" data-equalizer>
         <div class="small-6 medium-6 columns panel" data-equalizer-watch>
             <img src="packages_images/SouthernSunWaterfrontCapeTown.jpg">
 
@@ -124,7 +125,7 @@
 <div class="row"><!--package 3-->
     <div class="small-12 medium-12 columns">
         <h3 class="subheader">SOUTH AFRICA-CAPETOWN<small> (Valid until 31st Mar 16)&nbsp;<i><strong>USD 645.00 per Person sharing</strong></i></small></h3>
-        <div class="row" data-equalizer data-equalizer-mq="large-up">
+        <div class="row" data-equalizer>
             <div class="small-6 medium-6 columns panel" data-equalizer-watch>
                 <img src="packages_images/nelson_mandela_square.jpg">
 
@@ -155,7 +156,7 @@
 <div class="row"><!--package 4-->
     <div class="small-12 medium-12 columns">
         <h3 class="subheader">ZANZIBAR<small>  (Valid until 31st Mar 16)<strong>&nbsp;USD 545.00 per Person sharing</strong></small></h3>
-        <div class="row"  data-equalizer data-equalizer-mq="large-up">
+        <div class="row"  data-equalizer>
             <div class="small-6 medium-6 columns panel" data-equalizer-watch>
                 <img src="packages_images/Breezes_Beach_Resort_Zanzibar.jpg">
             </div>
@@ -183,7 +184,7 @@
 <div class="row"><!--package 5-->
 <div class="small-12 medium-12 columns">
     <h3 class="subheader">MOMBASA<small>(Valid until 31st Mar 16) &nbsp;USD 475.00 per Person sharing</small></h3>
-    <div class="row"  data-equalizer data-equalizer-mq="large-up">
+    <div class="row"  data-equalizer>
         <div class="small-6 medium-6 columns panel" data-equalizer-watch>
             <img src="packages_images/voyager-beach-resort.jpg">
             </div>
@@ -211,7 +212,7 @@
 <div class="row"><!--package 6-->
 <div class="small-12 medium-12">
     <h3 class="subheader">SEYCHELLES<small>(Valid until 18th Mar 16)&nbsp;<strong>USD 390.00 per Person sharing</strong></small></h3>
-    <div class="row" data-equalizer data-equalizer-mq="large-up">
+    <div class="row" data-equalizer>
         <div class="small-6 medium-6 columns panel" data-equalizer-watch>
             <img src="packages_images/seychelles.jpg">
         </div>

@@ -13,9 +13,7 @@ body{
 .row {
     max-width: 95rem;
 }
-#slider{
-    height:550px
-}
+
 
 .top-bar-section ul li {
     background: transparent;
@@ -37,12 +35,17 @@ body{
         /*color: #0973ba;*/
         color: #FFFFFF;
 /*        text-decoration: underline;*/
+font-size: 17px;
 
+    }
+    #our_serivces_home{
+        padding-left: 125px;
     }
     .top-bar-section li:not(.has-form) a:not(.button) {
         background: transparent;
 /*        font-size: 20px;*/
-        font-size: 1.1em;
+font-size: 17px;
+padding-right: 15px;
 /*
     padding: 8px 15px 10px;
     display: inline-block;
@@ -51,6 +54,9 @@ body{
     font-family: "Lato",helvetica,arial;
 
     }
+    #slider{
+    height:550px
+}
     .top-bar-section li.active:not(.has-form) a:hover:not(.button) {
         background: transparent;
         color: #666;
@@ -93,6 +99,7 @@ font-family: "Lato",helvetica,arial;
 }
 .top-bar-section ul {
     padding-top: 25px;
+    padding-right: 77px;
 }
 .mjs-widget-content {
     height: 47px;
@@ -182,14 +189,48 @@ input:not([type]), input[type="text"], input[type="password"], input[type="date"
 
 
 }
-.home_page_offer_1{
+.home_page_offer_2{
  width: 268px;height: 350px;top: 1251px;left: 19px;z-index: 20028;border-width: 0px 1px;border-style: solid;border-color: rgb(237, 237, 237);
 }
-.home_page_offer_1 img{
+.home_page_offer_1{
+    width: 268px;height: 350px;top: 1251px;left: 19px;z-index: 20028;border-width: 0px 1px;border-style: solid;border-color: rgb(237, 237, 237);
+}
+.home_page_offer_2 img,.home_page_offer_1 img{
     height: 200px;
 }
-@media only screen and (max-width:39.9375em){
-  .home_page_offer_1 img{
-    height: 250px;
+#zanzibar_packages_p{
+    font-family: 'Cuprum';font-size: 20px;color: #5785a9;
+}
+#south_africa_packages_p{
+     font-family: 'Cuprum';font-size: 19px;color: #5785a9;
+}
+@media only screen and (max-width:572px){
+/*
+  .home_page_offer_2 img,home_page_offer_1 img{
+    height: 150px;
+}
+*/
+    #slider{
+    height:350px
+}
+    #our_serivces_home{
+        padding-left: 0px;
+    }
+    #zanzibar_packages_p{
+        font-size: 11px;
+
+}
+    #south_africa_packages_p{
+        font-size: 9px;
+    }
+    .home_page_offer_1,.home_page_offer_2 {
+    width: 115px;
+    height: 350px;
+    top: 1251px;
+    left: 19px;
+    z-index: 20028;
+    border-width: 0px 1px;
+    border-style: solid;
+    border-color: rgb(237, 237, 237);
 }
 }

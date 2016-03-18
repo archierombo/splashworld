@@ -15,13 +15,13 @@
     </div>
 </footer><!--footer-->
 <!--scripts-->
-<script src="js/vendor/jquery.js"></script>
 
+<script src="js/vendor/jquery.js"></script>
+<script type="text/javascript" src="http://arrow.scrolltotop.com/arrow35.js"></script>
 <script src="js/foundation.min.js"></script>
 <script src="js/foundation/foundation.topbar.js"></script>
 <script src="js/foundation/foundation.equalizer.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-<script type="text/javascript" src="http://arrow.scrolltotop.com/arrow35.js"></script>
+
 
 <script>
     $(document).foundation();
@@ -36,17 +36,21 @@
         slides:[
           { src: './slideshow/airline_header.jpg' },
           { src: './slideshow/family_holiday.jpg' },
+          {src: './slideshow/kenya-airways-boeing-777.jpg'},
+          {src: './slideshow/beach.png'},
           { src: './slideshow/kq2.jpg' },
+          {src: './slideshow/umrah.jpg'},
           { src: './slideshow/kq.jpg' },
-          {src: './slideshow/kenya-airways-boeing-777.jpg'}
+          { src: './slideshow/passport3.jpg' }
         ],
         timer:false,
         shuffle:true,
         transition: [ 'fade','fade2' ],
         cover:true,
         transitionDuration: 3000,
-        delay:7000,
-        preload:true
+        delay:9000,
+        preload:false,
+        preloadImage:true
       });
     </script>
 </body>
