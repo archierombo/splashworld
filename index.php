@@ -152,6 +152,77 @@
       </div><!--four-->
     </div><!--Special Offers-->
     <p>&nbsp;</p>
+ <div class="row" style="padding-top: 30px;"><!--Special Offers-->
+      <div class="small-3 medium-3 columns"><!--5-->
+        <div class="special_offers home_page_offer_1">
+           <img src="packages_images/Wildebeests_Migration3.jpg">
+          <div class="special_content" style="width: 230px;height: 44px;top: 1303px;left: 38px;z-index: 20033;">
+            <p id="masai_mara_p"><b>Masai Mara Package</b></p>
+            <p style="font-family: 'Arial';font-size: 13px;color: #a3a3a3;text-align: left;">Valid until 30<sup>th</sup> June 2016</p>
+            <p style="text-align: left;font-family: 'Cuprum';font-size: 14px;color: #fec02a">From  Kshs.12500 P/P Sharing</p>
+            <div class="mjs-widget-content">
+              <a href="#" class="button" style="height: 100%;background-color: transparent;">
+                <div style="vertical-align: middle;font-weight: bold;font-style: normal;text-decoration: none;margin-top: -1px;line-height: 1.2;text-align: left;font-family: 'Cuprum';font-size: 20px;
+    color: #ffffff;
+    letter-spacing: 0px;">BOOK NOW</div>
+              </a>
+            </div>
+          </div>
 
+        </div>
+      </div><!--5-->
+      <div class="small-3 medium-3 columns"><!--6-->
+        <div class="special_offers home_page_offer_2">
+          <img src="packages_images/Da_VinciHotelOnNelsonMandela_Square.jpg">
+          <div class="special_content" style="width: 230px;height: 44px;top: 1303px;left: 38px;z-index: 20033;">
+            <p id="south_africa_packages_p"><b>Seychelles Package</b></p>
+            <p style="font-family: 'Arial';font-size: 13px;color: #a3a3a3;text-align: left;">Valid until 18<sup>th</sup> Mar 2016</p>
+            <p style="text-align: left;font-family: 'Cuprum';font-size: 19px;color: #fec02a;">From  $390 P/P Sharing</p>
+            <div class="mjs-widget-content">
+              <a href="#" class="button" style="height: 100%;background-color: transparent;">
+                <div style="vertical-align: middle;font-weight: bold;font-style: normal;text-decoration: none;margin-top: -1px;line-height: 1.2;text-align: left;font-family: 'Cuprum';font-size: 20px;
+    color: #ffffff;
+    letter-spacing: 0px;">BOOK NOW</div>
+              </a>
+            </div>
+          </div>
+      </div>
+        </div><!--6-->
+      <div class="small-3 medium-3 columns"><!--7-->
+        <div class="special_offers" style="width: 268px;height: 350px;top: 1251px;left: 19px;z-index: 20028;border-width: 0px 1px;border-style: solid;border-color: rgb(237, 237, 237);">
+        <img src="packages_images/voyager_beach_pool.jpg" style="height: 200px;">
+        <div class="special_content" style="width: 230px;height: 44px;top: 1303px;left: 38px;z-index: 20033;">
+          <p style="font-family: 'Cuprum';font-size: 20px;color: #5785a9;"><b>Mombasa Package</b></p>
+          <p style="font-family: 'Arial';font-size: 13px;color: #a3a3a3;text-align: left;">Valid until 31st Aug 16 2016</p>
+          <p style="text-align: left;font-family: 'Cuprum';font-size: 19px;color: #fec02a">From  $475 P/P Sharing</p>
+          <div class="mjs-widget-content">
+            <a href="#" class="button" style="height: 100%;background-color: transparent;">
+              <div style="vertical-align: middle;font-weight: bold;font-style: normal;text-decoration: none;margin-top: -1px;line-height: 1.2;text-align: left;font-family: 'Cuprum';font-size: 20px;
+    color: #ffffff;
+    letter-spacing: 0px;">BOOK NOW</div>
+            </a>
+          </div>
+        </div>
+      </div>
+      </div><!--7-->
+      <div class="small-3 medium-3 columns"><!--8-->
+        <div class="special_offers" style="width: 268px;height: 350px;top: 1251px;left: 19px;z-index: 20028;border-width: 0px 1px;border-style: solid;border-color: rgb(237, 237, 237);">
+          <img src="packages_images/SouthernSunWaterfrontCapeTown.jpg" style="height: 200px">
+          <div class="special_content" style="width: 230px;height: 44px;top: 1303px;left: 38px;z-index: 20033;">
+            <p style="font-family: 'Cuprum';font-size: 19px;color: #5785a9;"><b>South Africa Package</b></p>
+            <p style="font-family: 'Arial';font-size: 13px;color: #a3a3a3;text-align: left;">Valid until 31st Aug 16 2016</p>
+            <p style="text-align: left;font-family: 'Cuprum';font-size: 19px;color: #fec02a;">From  $475 P/P Sharing</p>
+            <div class="mjs-widget-content">
+              <a href="#" class="button" style="height: 100%;background-color: transparent;">
+                <div style="vertical-align: middle;font-weight: bold;font-style: normal;text-decoration: none;margin-top: -1px;line-height: 1.2;text-align: left;font-family: 'Cuprum';font-size: 20px;
+    color: #ffffff;
+    letter-spacing: 0px;">BOOK NOW</div>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div><!--8-->
+    </div><!--Special Offers-->
+    <p>&nbsp;</p>
 
     <?php include_once 'footer.php' ?>
