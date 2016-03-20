@@ -86,7 +86,7 @@
            <img src="packages_images/Breezes_Beach_Resort_Zanzibar.jpg">
           <div class="special_content" style="width: 230px;height: 44px;top: 1303px;left: 38px;z-index: 20033;">
             <p id="zanzibar_packages_p"><b>Zanzibar Package</b></p>
-            <p style="font-family: 'Arial';font-size: 13px;color: #a3a3a3;text-align: left;">Valid until 31st Mar 16 2016</p>
+            <p style="font-family: 'Arial';font-size: 13px;color: #a3a3a3;text-align: left;">Valid until 31<sup>st</sup> Mar 16 2016</p>
             <p style="text-align: left;font-family: 'Cuprum';font-size: 19px;color: #fec02a">From  $545 P/P Sharing</p>
             <div class="mjs-widget-content">
               <a href="#" class="button" style="height: 100%;background-color: transparent;">
@@ -121,7 +121,7 @@
         <img src="packages_images/voyager_beach_pool.jpg" style="height: 200px;">
         <div class="special_content" style="width: 230px;height: 44px;top: 1303px;left: 38px;z-index: 20033;">
           <p style="font-family: 'Cuprum';font-size: 20px;color: #5785a9;"><b>Mombasa Package</b></p>
-          <p style="font-family: 'Arial';font-size: 13px;color: #a3a3a3;text-align: left;">Valid until 31st Aug 16 2016</p>
+          <p style="font-family: 'Arial';font-size: 13px;color: #a3a3a3;text-align: left;">Valid until 31<sup>st</sup> Aug 16 2016</p>
           <p style="text-align: left;font-family: 'Cuprum';font-size: 19px;color: #fec02a">From  $475 P/P Sharing</p>
           <div class="mjs-widget-content">
             <a href="#" class="button" style="height: 100%;background-color: transparent;">
@@ -138,7 +138,7 @@
           <img src="packages_images/SouthernSunWaterfrontCapeTown.jpg" style="height: 200px">
           <div class="special_content" style="width: 230px;height: 44px;top: 1303px;left: 38px;z-index: 20033;">
             <p style="font-family: 'Cuprum';font-size: 19px;color: #5785a9;"><b>South Africa Package</b></p>
-            <p style="font-family: 'Arial';font-size: 13px;color: #a3a3a3;text-align: left;">Valid until 31st Aug 16 2016</p>
+            <p style="font-family: 'Arial';font-size: 13px;color: #a3a3a3;text-align: left;">Valid until 31<sup>st</sup> Aug 16 2016</p>
             <p style="text-align: left;font-family: 'Cuprum';font-size: 19px;color: #fec02a;">From  $475 P/P Sharing</p>
             <div class="mjs-widget-content">
               <a href="#" class="button" style="height: 100%;background-color: transparent;">
@@ -173,7 +173,7 @@
       </div><!--5-->
       <div class="small-3 medium-3 columns"><!--6-->
         <div class="special_offers home_page_offer_2">
-          <img src="packages_images/Da_VinciHotelOnNelsonMandela_Square.jpg">
+          <img src="packages_images/seychelles.jpg">
           <div class="special_content" style="width: 230px;height: 44px;top: 1303px;left: 38px;z-index: 20033;">
             <p id="south_africa_packages_p"><b>Seychelles Package</b></p>
             <p style="font-family: 'Arial';font-size: 13px;color: #a3a3a3;text-align: left;">Valid until 18<sup>th</sup> Mar 2016</p>

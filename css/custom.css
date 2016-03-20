@@ -45,7 +45,7 @@ font-size: 17px;
     .top-bar-section li:not(.has-form) a:not(.button) {
         background: transparent;
 /*        font-size: 20px;*/
-font-size: 17px;
+font-size: 15px;
 padding-right: 15px;
 /*
     padding: 8px 15px 10px;
@@ -60,12 +60,13 @@ padding-right: 15px;
 }
     .top-bar-section li.active:not(.has-form) a:hover:not(.button) {
         background: transparent;
-        color: #666;
+        color: #FFF;
     }
     .top-bar-section li:not(.has-form) a:hover:not(.button) {
         background-color: transparent;
         background: transparent;
-        color: #0973ba;
+/*        color: #0973ba;*/
+        color: #FFF;
     }
     .top-bar {
         /*background: rgba(249,249,249,0.95);*/
@@ -78,7 +79,7 @@ padding-right: 15px;
         z-index: 10;
         width: 100%;
         background: url(../img/topnav_bg.png?1455237018) 0 -70px repeat-x;
-        height: 100px;
+        height: 70px;
         margin-left: -15px;
     }
     .fixed{
@@ -99,7 +100,7 @@ font-family: "Lato",helvetica,arial;
     color: #0973ba;
 }
 .top-bar-section ul {
-    padding-top: 25px;
+    padding-top: 15px;
     padding-right: 77px;
 }
 .mjs-widget-content {
