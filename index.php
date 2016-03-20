@@ -26,10 +26,9 @@
         <nav class="top-bar" data-topbar role="navigation">
           <ul class="title-area">
             <li class="name">
-              <a href="index.php"><img src="img/new_logo.png" style="height: 90px;padding-left: 25px;"> </a>
+              <a href="index.php"><img src="img/new_logo.png" class="img" style=""> </a>
             </li>
-            <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
-            <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+            <li class="toggle-topbar menu-icon"><a href="#"><span></span></a></li>
           </ul>
 
           <section class="top-bar-section">
@@ -55,36 +54,33 @@
 
       </div>
     </div><!--Why Book With Us Title-->
-    <div class="row"><!--Why Book With Us -->
-      <div class="small-1 medium-1 columns">
-        <p>&nbsp;</p>
-      </div>
-      <div class="small-10 medium-10 columns">
-        <div class="row" style="" id="our_serivces_home">
-          <div class="small-4 medium-4 columns hvr-shrink">
-            <i class="fa fa-plane fa-4x circle"></i>
-            <p style="font-family: 'Fjalla One', sans-serif;padding-top: 11px;font-size: 26px;">Travel</p>
-          </div>
-          <div class="small-4 medium-4 columns hvr-shrink">
-            <i class="fa fa-bus fa-4x circle"></i>
-            <p style="font-family: 'Fjalla One', sans-serif;padding-top: 11px;font-size: 26px;">Tours</p>
-          </div>
-          <div class="small-4 medium-4 columns hvr-shrink">
-            <i class="fa fa-umbrella fa-4x circle"></i>
-            <p style="font-family: 'Fjalla One', sans-serif;padding-top: 11px;font-size: 26px;">Holidays</p>
-          </div>
+    <div class="row"><!--our services content-->
+        <div class="small-1 columns">&nbsp;</div>
+        <div class="small-3 columns hvr-shrink" style="height:250px;border: 1px solid black;background-color: brown;padding-top: 57px;">
+            <p style="text-align:center;color:#FFF"><i class="fa fa-plane fa-4x"></i></p>
+            <p style="text-align:center;font-family: 'Fjalla One', sans-serif;font-size: 26px;color: rgb(255, 255, 255);">Travel</p>
         </div>
-      </div>
+         <div class="small-1 columns">&nbsp;</div>
+        <div class="small-3 columns hvr-shrink" style="height:250px;border: 1px solid black;background-color:blue;padding-top: 57px;">
+            <p style="text-align:center;color:#FFF"> <i class="fa fa-bus fa-4x"></i></p>
 
-      <div class="small-1 medium-1 columns"></div>
-    </div><!--Why Book With Us-->
+            <p style="text-align:center;font-family: 'Fjalla One', sans-serif;font-size: 26px;color: rgb(255, 255, 255);">Tours</p>
+        </div>
+        <div class="small-1 columns">&nbsp;</div>
+        <div class="small-3 columns hvr-shrink" style="height:250px;border: 1px solid black;background-color:blueviolet;padding-top: 57px;">
+            <p style="text-align:center;color:#FFF"><i class="fa fa-umbrella fa-4x "></i></p>
+
+            <p style="text-align:center;font-family: 'Fjalla One', sans-serif;font-size: 26px;color: rgb(255, 255, 255);">Holidays</p>
+        </div>
+    </div><!--our services content-->
+
     <div class="row"><!--Special Offers Packages-->
       <div class="small-12 medium-12 columns">
         <h3 style="text-align: left;font-family: 'Cuprum';font-size: 38px;color: #5785a9; font-weight: bold;">SPECIAL OFFERS</h3>
         <div style="width:83rem;height: 1px;top: 1012px;left: 20px; z-index: 20020;background: rgb(237, 237, 237);"></div>
       </div>
     </div><!--Special Offers Packages-->
-    <div class="row" style="padding-top: 30px;"><!--Special Offers-->
+ <div class="row" style="padding-top: 30px;"><!--Special Offers-->
       <div class="small-3 medium-3 columns"><!--one-->
         <div class="special_offers home_page_offer_1">
            <img src="packages_images/Breezes_Beach_Resort_Zanzibar.jpg">
@@ -156,6 +152,6 @@
       </div><!--four-->
     </div><!--Special Offers-->
     <p>&nbsp;</p>
-    <p>&nbsp;</p>
-    <p>&nbsp;</p>
+
+
     <?php include_once 'footer.php' ?>

@@ -19,7 +19,8 @@ body{
     background: transparent;
 }
 .top-bar{
-    min-height: 110px;
+    min-height: 72px;
+    background: transparent;
 }
 .top-bar-section ul li > a {
     color: #FFFFFF;
@@ -233,4 +234,13 @@ input:not([type]), input[type="text"], input[type="password"], input[type="date"
     border-style: solid;
     border-color: rgb(237, 237, 237);
 }
+}
+.img{
+    height: 60px;
+padding-left: 17px;
+margin-top: 7px;
+}
+.top-bar .toggle-topbar.menu-icon {
+    margin-top: 0px;
+    top: 50%;
 }
