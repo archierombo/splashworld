@@ -17,6 +17,7 @@
     <!--Google Fonts-->
     <link href='https://fonts.googleapis.com/css?family=Fjalla+One' rel='stylesheet' type='text/css'>
     <link rel="icon" href="img/favicon.ico" type="image/ico" sizes="16x16">
+      <meta name="author" content="Archie Owino Rombo">
       <meta name="description" content="">
       <meta name="generator" content="Brackets">
       <meta name="generator" content="Foundation 5">
