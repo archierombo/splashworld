@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Splash World Ltd |Travel Tours &amp; Leisure| Welcome Home</title>
+    <title>Splash World Limited | Travel Tours &amp; Leisure</title>
     <link rel="stylesheet" href="css/foundation.css" />
     <!--custom css-->
     <link href="css/custom.css" rel="stylesheet">
@@ -17,6 +17,12 @@
     <!--Google Fonts-->
     <link href='https://fonts.googleapis.com/css?family=Fjalla+One' rel='stylesheet' type='text/css'>
     <link rel="icon" href="img/favicon.ico" type="image/ico" sizes="16x16">
+      <meta name="description" content="">
+      <meta name="generator" content="Brackets">
+      <meta name="generator" content="Foundation 5">
+      <meta name="contact" content="info@splashworldltd.com">
+      <meta name="keywords" content="Travel,Tours,Leisure">
+
   </head>
   <body>
 
