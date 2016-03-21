@@ -21,7 +21,10 @@
       <meta name="generator" content="Brackets">
       <meta name="generator" content="Foundation 5">
       <meta name="contact" content="info@splashworldltd.com">
-      <meta name="keywords" content="Travel,Tours,Leisure">
+      <meta name="keywords" content="Travel,Tours,Leisure,Airport Transfers">
+      <meta name="googlebot" content="noodp">
+      <meta name="language" content="English">
+      <meta name="robots" content="index, follow">
 
   </head>
   <body>
