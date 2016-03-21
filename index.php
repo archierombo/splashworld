@@ -25,7 +25,7 @@
       <meta name="googlebot" content="noodp">
       <meta name="language" content="English">
       <meta name="robots" content="index, follow">
-
+      <meta name="web_author" content="Bethel IT">
   </head>
   <body>
 
