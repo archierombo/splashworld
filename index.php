@@ -69,7 +69,7 @@
         <div class="small-3 columns hvr-shrink" style="height:200px;border: 1px solid black;background-color: brown;padding-top: 20px;margin-left: 30px;">
             <div class="row collapse">
                 <div class="small-6 columns">
-                     <p style="text-align:center;color:#FFF"><i class="fa fa-plane fa-2x"></i></p>
+<!--                     <p style="text-align:center;color:#FFF"><i class="fa fa-plane fa-2x"></i></p>-->
                 </div>
                  <div class="small-6 columns">
                      <p style="text-align:left;font-size: 26px;color: rgb(255, 255, 255);margin-left: -51px;">Travel</p>
@@ -78,10 +78,10 @@
 
         </div>
          <div class="small-1 columns">&nbsp;</div>
-        <div class="small-3 columns hvr-shrink" style="height:200px;border: 1px solid black;background-color:blue;padding-top: 57px;">
+        <div class="small-3 columns hvr-shrink" style="height:200px;border: 1px solid black;background-color:blue;padding-top: 20px;">
             <div class="row collapse">
                 <div class="small-6 columns">
-                      <p style="text-align:center;color:#FFF"> <i class="fa fa-bus fa-2x"></i></p>
+<!--                      <p style="text-align:center;color:#FFF"> <i class="fa fa-bus fa-2x"></i></p>-->
                 </div>
                 <div class="small-6 columns">
                     <p style="text-align:left;font-size: 26px;color: rgb(255, 255, 255);margin-left: -51px;">Tours</p>
@@ -92,10 +92,16 @@
 
         </div>
         <div class="small-1 columns">&nbsp;</div>
-        <div class="small-3 columns hvr-shrink" style="height:200px;border: 1px solid black;background-color:blueviolet;padding-top: 57px;">
-            <p style="text-align:center;color:#FFF"><i class="fa fa-umbrella fa-4x "></i></p>
+        <div class="small-3 columns hvr-shrink" style="height:200px;border: 1px solid black;background-color:blueviolet;padding-top:20px;">
+            <div class="row collapse">
+                <div class="col-sm-6">
+<!--                    <p style="text-align:center;color:#FFF"><i class="fa fa-umbrella fa-4x "></i></p>-->
+                </div>
+                <div class="col-sm-6"> <p style="text-align:center;font-size: 26px;color: rgb(255, 255, 255);">Holidays</p></div>
+            </div>
 
-            <p style="text-align:center;font-size: 26px;color: rgb(255, 255, 255);">Holidays</p>
+
+
         </div>
          <div class="small-1 columns">&nbsp;</div>
     </div><!--our services content-->
