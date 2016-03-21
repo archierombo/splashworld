@@ -65,23 +65,31 @@
       </div>
     </div><!--Why Book With Us Title-->
     <div class="row"><!--our services content-->
-        <div class="small-1 columns">&nbsp;</div>
-        <div class="small-3 columns hvr-shrink" style="height:250px;border: 1px solid black;background-color: brown;padding-top: 57px;">
-            <p style="text-align:center;color:#FFF"><i class="fa fa-plane fa-4x"></i></p>
-            <p style="text-align:center;font-family: 'Fjalla One', sans-serif;font-size: 26px;color: rgb(255, 255, 255);">Travel</p>
+
+        <div class="small-3 columns hvr-shrink" style="height:200px;border: 1px solid black;background-color: brown;padding-top: 57px;margin-left: 30px;">
+            <div class="row collapse">
+                <div class="small-6 columns">
+                     <p style="text-align:center;color:#FFF"><i class="fa fa-plane fa-2x"></i></p>
+                </div>
+                 <div class="small-6 columns">
+                     <p style="text-align:left;font-family: 'Fjalla One', sans-serif;font-size: 26px;color: rgb(255, 255, 255);">Travel</p>
+                </div>
+            </div>
+
         </div>
          <div class="small-1 columns">&nbsp;</div>
-        <div class="small-3 columns hvr-shrink" style="height:250px;border: 1px solid black;background-color:blue;padding-top: 57px;">
+        <div class="small-3 columns hvr-shrink" style="height:200px;border: 1px solid black;background-color:blue;padding-top: 57px;">
             <p style="text-align:center;color:#FFF"> <i class="fa fa-bus fa-4x"></i></p>
 
             <p style="text-align:center;font-family: 'Fjalla One', sans-serif;font-size: 26px;color: rgb(255, 255, 255);">Tours</p>
         </div>
         <div class="small-1 columns">&nbsp;</div>
-        <div class="small-3 columns hvr-shrink" style="height:250px;border: 1px solid black;background-color:blueviolet;padding-top: 57px;">
+        <div class="small-3 columns hvr-shrink" style="height:200px;border: 1px solid black;background-color:blueviolet;padding-top: 57px;">
             <p style="text-align:center;color:#FFF"><i class="fa fa-umbrella fa-4x "></i></p>
 
             <p style="text-align:center;font-family: 'Fjalla One', sans-serif;font-size: 26px;color: rgb(255, 255, 255);">Holidays</p>
         </div>
+         <div class="small-1 columns">&nbsp;</div>
     </div><!--our services content-->
 
     <div class="row"><!--Special Offers Packages-->
