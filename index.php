@@ -118,13 +118,11 @@
            <img src="packages_images/Breezes_Beach_Resort_Zanzibar.jpg">
           <div class="special_content" style="width: 230px;height: 44px;top: 1303px;left: 38px;z-index: 20033;">
             <p id="zanzibar_packages_p"><b>Zanzibar Package</b></p>
-            <p style="font-size: 13px;color: #a3a3a3;text-align: left;">Valid until 31<sup>st</sup> Mar 16 2016</p>
-            <p style="text-align: left;font-size: 19px;color: #fec02a">From  $545 P/P Sharing</p>
+            <p  id="valid">Valid until 31<sup>st</sup> Mar 16 2016</p>
+            <p  id="from">From  $545 P/P Sharing</p>
             <div class="mjs-widget-content">
               <a href="#" class="button" style="height: 100%;background-color: transparent;">
-                <div style="vertical-align: middle;font-weight: bold;font-style: normal;text-decoration: none;margin-top: -1px;line-height: 1.2;text-align: left;font-size: 20px;
-    color: #ffffff;
-    letter-spacing: 0px;">BOOK NOW</div>
+                <div class="widget-button" style="">BOOK NOW</div>
               </a>
             </div>
           </div>

@@ -250,3 +250,47 @@ margin-top: 7px;
     font-size: 19px;
     color: #5785a9;
 }
+#from{
+        text-align: left;font-size: 19px;color: #fec02a
+    }
+@media (max-device-width: 800px)  and (orientation: portrait) {
+    #zanzibar_packages_p {
+/*    font-family: 'Cuprum';*/
+    font-size: 15px;
+    color: #5785a9;
+}
+    #from{
+        text-align: left;font-size: 10px;color: #fec02a
+    }
+    #valid{
+
+    }
+    home_page_offer_2 img, .home_page_offer_1 img {
+    height: 129px;
+}
+    .mjs-widget-content {
+    height: 47px;
+    width: 95px;
+    background: url('../img/img1.jpg') no-repeat center center;
+}
+    .widget-button{
+        vertical-align: middle;
+font-weight: bold;
+font-style: normal;
+text-decoration: none;
+margin-top: -1px;
+line-height: 1.2;
+text-align: left;
+font-size: 10px;
+color: rgb(255, 255, 255);
+letter-spacing: 0px;
+    }
+}
+#valid{
+    font-size: 11px;color: #a3a3a3;text-align: left;
+}
+.widget-button{
+    vertical-align: middle;font-weight: bold;font-style: normal;text-decoration: none;margin-top: -1px;line-height: 1.2;text-align: left;font-size: 20px;
+    color: #ffffff;
+    letter-spacing: 0px;
+}
