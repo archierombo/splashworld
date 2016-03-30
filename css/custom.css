@@ -201,40 +201,52 @@ input:not([type]), input[type="text"], input[type="password"], input[type="date"
     height: 200px;
 }
 #zanzibar_packages_p{
-    font-family: 'Cuprum';font-size: 20px;color: #5785a9;
+   font-size: 20px;color: #5785a9;
 }
 #south_africa_packages_p{
-     font-family: 'Cuprum';font-size: 19px;color: #5785a9;
+    font-size: 19px;color: #5785a9;
 }
-@media only screen and (max-width:572px){
-/*
-  .home_page_offer_2 img,home_page_offer_1 img{
-    height: 150px;
+#mombasa_packages_p{
+    font-size: 20px;
+    color: #5785a9;
 }
-*/
-    #slider{
-    height:350px
+.special_content{
+    width: 230px;height: 44px;top: 1303px;left: 38px;z-index: 20033;
 }
-    #our_serivces_home{
-        padding-left: 0px;
-    }
-    #zanzibar_packages_p{
-        font-size: 11px;
 
-}
-    #south_africa_packages_p{
-        font-size: 9px;
-    }
-    .home_page_offer_1,.home_page_offer_2 {
-    width: 115px;
-    height: 350px;
-    top: 1251px;
-    left: 19px;
-    z-index: 20028;
-    border-width: 0px 1px;
-    border-style: solid;
-    border-color: rgb(237, 237, 237);
-}
+@media only screen and (max-width:572px) and (orientation: portrait){
+/*!**/
+  /*.home_page_offer_2 img,home_page_offer_1 img{*/
+    /*height: 150px;*/
+/*}*/
+/**!*/
+    /*#slider{*/
+    /*height:350px*/
+/*}*/
+    /*#our_serivces_home{*/
+        /*padding-left: 0px;*/
+    /*}*/
+    /*#zanzibar_packages_p{*/
+        /*font-size: 11px;*/
+
+/*}*/
+    /*#south_africa_packages_p{*/
+        /*font-size: 7px;*/
+    /*}*/
+    /*.home_page_offer_1,.home_page_offer_2 {*/
+    /*width: 115px;*/
+    /*height: 350px;*/
+    /*top: 1251px;*/
+    /*left: 19px;*/
+    /*z-index: 20028;*/
+    /*border-width: 0px 1px;*/
+    /*border-style: solid;*/
+    /*border-color: rgb(237, 237, 237);*/
+/*}*/
+    /*#mombasa_packages_p{*/
+    /*font-size: 9px;*/
+    /*color: #5785a9;*/
+/*}*/
 }
 .img{
     height: 60px;
@@ -253,39 +265,47 @@ margin-top: 7px;
 #from{
         text-align: left;font-size: 19px;color: #fec02a
     }
-@media (max-device-width: 800px)  and (orientation: portrait) {
-    #zanzibar_packages_p {
-/*    font-family: 'Cuprum';*/
-    font-size: 15px;
-    color: #5785a9;
-}
-    #from{
-        text-align: left;font-size: 10px;color: #fec02a
-    }
-    #valid{
+@media (max-device-width: 800px)  and (orientation: portrait) {  /*max width 800 potrait*/
+    /*#zanzibar_packages_p {*/
+/*!*    font-family: 'Cuprum';*!*/
+    /*font-size: 15px;*/
+    /*color: #5785a9;*/
+/*}*/
+    /*#south_africa_packages_p{*/
+        /*font-size: 12px;*/
+    /*color: #5785a9;*/
+    /*}*/
+    /*#from{*/
+        /*text-align: left;font-size: 10px;color: #fec02a*/
+    /*}*/
+    /*#valid{*/
 
-    }
-    home_page_offer_2 img, .home_page_offer_1 img {
-    height: 129px;
-}
-    .mjs-widget-content {
-    height: 47px;
-    width: 95px;
-    background: url('../img/img1.jpg') no-repeat center center;
-}
-    .widget-button{
-        vertical-align: middle;
-font-weight: bold;
-font-style: normal;
-text-decoration: none;
-margin-top: -1px;
-line-height: 1.2;
-text-align: left;
-font-size: 10px;
-color: rgb(255, 255, 255);
-letter-spacing: 0px;
-    }
-}
+    /*}*/
+    /*.home_page_offer_2 img, .home_page_offer_1 img,.special_offers img {*/
+    /*height: 129px;*/
+/*}*/
+    /*.mjs-widget-content {*/
+    /*height: 79px;*/
+    /*width: 115px;*/
+    /*background: url('../img/img1.jpg') no-repeat center center;*/
+/*}*/
+    /*.widget-button{*/
+        /*vertical-align: middle;*/
+/*font-weight: bold;*/
+/*font-style: normal;*/
+/*text-decoration: none;*/
+/*margin-top: -1px;*/
+/*line-height: 1.2;*/
+/*text-align: left;*/
+/*font-size: 10px;*/
+/*color: rgb(255, 255, 255);*/
+/*letter-spacing: 0px;*/
+    /*}*/
+    /*#mombasa_packages_p{*/
+    /*font-size: 15px;*/
+    /*color: #5785a9;*/
+/*}*/
+}/*max width 800 potrait*/
 #valid{
     font-size: 11px;color: #a3a3a3;text-align: left;
 }
@@ -293,4 +313,71 @@ letter-spacing: 0px;
     vertical-align: middle;font-weight: bold;font-style: normal;text-decoration: none;margin-top: -1px;line-height: 1.2;text-align: left;font-size: 20px;
     color: #ffffff;
     letter-spacing: 0px;
+}
+/* Landscape */
+@media (max-device-width: 1280px) and (orientation: landscape) {
+
+}
+/* Landscape */
+@media (max-device-width: 720px) and (orientation: portrait) {
+
+     /*#zanzibar_packages_p {*/
+    /*font-family: 'Cuprum';*/
+    /*font-size: 15px;*/
+    /*color: #5785a9;*/
+/*}*/
+    /*#south_africa_packages_p{*/
+        /*font-size: 12px;*/
+    /*color: #5785a9;*/
+    /*}*/
+    /*#from{*/
+        /*text-align: left;font-size: 10px;color: #fec02a*/
+    /*}*/
+    /*#valid{*/
+
+    /*}*/
+    /*.home_page_offer_2 img, .home_page_offer_1 img,.special_offers img {*/
+    /*height: 129px;*/
+/*}*/
+    /*.mjs-widget-content {*/
+    /*height: 79px;*/
+    /*width: 115px;*/
+    /*background: url('../img/img1.jpg') no-repeat center center;*/
+/*}*/
+    /*.widget-button{*/
+        /*vertical-align: middle;*/
+/*font-weight: bold;*/
+/*font-style: normal;*/
+/*text-decoration: none;*/
+/*margin-top: -1px;*/
+/*line-height: 1.2;*/
+/*text-align: left;*/
+/*font-size: 10px;*/
+/*color: rgb(255, 255, 255);*/
+/*letter-spacing: 0px;*/
+    /*}*/
+    /*#mombasa_packages_p{*/
+    /*font-size: 15px;*/
+    /*color: #5785a9;*/
+/*}*/
+    .home_page_offer_2{
+        width: 268px;
+        height: 350px;
+        top: 1251px;
+        left: 19px;
+        z-index: 20028;
+        border-width: 0px 1px;
+        border-style: solid;
+        border-color: rgb(237, 237, 237)
+    }
+    .home_page_offer_1{
+        width: 268px;
+        height: 350px;
+        top: 1251px;
+        left: 19px;
+        z-index: 20028;
+        border-width: 0px 1px;
+        border-style: solid;
+        border-color: rgb(237, 237, 237);
+    }
 }

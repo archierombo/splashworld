@@ -66,44 +66,24 @@
     </div><!--Why Book With Us Title-->
     <div class="row"><!--our services content-->
 
-        <div class="small-3 columns hvr-shrink" style="height:200px;border: 1px solid black;background-color: brown;padding-top: 20px;margin-left: 30px;">
-            <div class="row collapse">
-                <div class="small-6 columns">
-<!--                     <p style="text-align:center;color:#FFF"><i class="fa fa-plane fa-2x"></i></p>-->
-                </div>
-                 <div class="small-6 columns">
-                     <p style="text-align:left;font-size: 26px;color: rgb(255, 255, 255);margin-left: -51px;">Travel</p>
-                </div>
-            </div>
-
+        <div class="small-12 medium-3 columns" style="background-color: brown;margin-left: 30px;">
+        <p style="text-align:center;font-size: 26px;color: rgb(255, 255, 255);">Travel</p>
+            <p style="text-align: center;color: #FFF;line-height: 1.8;">We do all international and domestic ticketing, having ticket stock of all international and domestic airlines like Kenya Airways, KLM, South African Airways, British Airways, Qatar Airways, Emirates Airlines, etc. We give instant confirmation of seats through our online reservation. We have well trained staff dealing exclusively with ticketing.</p>
         </div>
-         <div class="small-1 columns">&nbsp;</div>
-        <div class="small-3 columns hvr-shrink" style="height:200px;border: 1px solid black;background-color:blue;padding-top: 20px;">
-            <div class="row collapse">
-                <div class="small-6 columns">
-<!--                      <p style="text-align:center;color:#FFF"> <i class="fa fa-bus fa-2x"></i></p>-->
-                </div>
-                <div class="small-6 columns">
-                    <p style="text-align:left;font-size: 26px;color: rgb(255, 255, 255);margin-left: -51px;">Tours</p>
-                </div>
-            </div>
-
-
-
+         <div class="medium-1 columns">&nbsp;</div>
+        <div class="small-12 medium-3 columns " style="background-color:blue;">
+         <p style="text-align:center;font-size: 26px;color: rgb(255, 255, 255);">Tours</p>
+           <p style="text-align: center;color: #FFF;line-height: 2.0;">
+             In additional to the corporate benefits that we bring to our clients we also look to provide employee benefits in terms of leisure products for our corporate client staff and the public. Experience has shown us that provision of such leisure products increases traveler loyalty to us and helps develop an incentive to work with us
+           </p>
         </div>
-        <div class="small-1 columns">&nbsp;</div>
-        <div class="small-3 columns hvr-shrink" style="height:200px;border: 1px solid black;background-color:blueviolet;padding-top:20px;">
-            <div class="row collapse">
-                <div class="col-sm-6">
-<!--                    <p style="text-align:center;color:#FFF"><i class="fa fa-umbrella fa-4x "></i></p>-->
-                </div>
-                <div class="col-sm-6"> <p style="text-align:center;font-size: 26px;color: rgb(255, 255, 255);">Holidays</p></div>
-            </div>
-
-
-
+        <div class="medium-1 columns">&nbsp;</div>
+        <div class="small-12 medium-3 columns " style="background-color:blueviolet;">
+         <p style="text-align:center;font-size: 26px;color: rgb(255, 255, 255);">Holidays</p>
+         <p style="text-align: center;color: #FFF">
+         Splash World Limited is at the forefront of opening up great holiday destinations and developing innovative holiday packages in order to meet the changing demands of customers' lifestyles. While the focus is very much on wonderful and exciting holidays, unique innovation has resulted in an extensive and varied portfolio of quality products and services at exceptional value for money.
         </div>
-         <div class="small-1 columns">&nbsp;</div>
+         <div class="medium-1 columns">&nbsp;</div>
     </div><!--our services content-->
 
     <div class="row"><!--Special Offers Packages-->
@@ -113,7 +93,7 @@
       </div>
     </div><!--Special Offers Packages-->
  <div class="row" style="padding-top: 30px;"><!--Special Offers-->
-      <div class="small-3 medium-3 columns"><!--one-->
+      <div class="small-12 medium-6 large-3 columns"><!--one-->
         <div class="special_offers home_page_offer_1">
            <img src="packages_images/Breezes_Beach_Resort_Zanzibar.jpg">
           <div class="special_content" style="width: 230px;height: 44px;top: 1303px;left: 38px;z-index: 20033;">
@@ -122,59 +102,56 @@
             <p  id="from">From  $545 P/P Sharing</p>
             <div class="mjs-widget-content">
               <a href="#" class="button" style="height: 100%;background-color: transparent;">
-                <div class="widget-button" style="">BOOK NOW</div>
+                <div class="widget-button" >BOOK NOW</div>
               </a>
             </div>
           </div>
 
         </div>
+          <p>&nbsp;</p>
       </div><!--one-->
-      <div class="small-3 medium-3 columns"><!--two-->
+      <div class="small-12 medium-6 large-3 columns"><!--two-->
         <div class="special_offers home_page_offer_2">
           <img src="packages_images/Da_VinciHotelOnNelsonMandela_Square.jpg">
           <div class="special_content" style="width: 230px;height: 44px;top: 1303px;left: 38px;z-index: 20033;">
             <p id="south_africa_packages_p"><b>South Africa Package</b></p>
-            <p style="font-size: 13px;color: #a3a3a3;text-align: left;">Valid until 31st Mar 16 2016</p>
-            <p style="text-align: left;font-size: 19px;color: #fec02a;">From  $645 P/P Sharing</p>
+            <p id="valid">Valid until 31<sup>st</sup> Mar 16 2016</p>
+            <p id="from">From  $645 P/P Sharing</p>
             <div class="mjs-widget-content">
               <a href="#" class="button" style="height: 100%;background-color: transparent;">
-                <div style="vertical-align: middle;font-weight: bold;font-style: normal;text-decoration: none;margin-top: -1px;line-height: 1.2;text-align: left;font-size: 20px;
-    color: #ffffff;
-    letter-spacing: 0px;">BOOK NOW</div>
+                <div class="widget-button">BOOK NOW</div>
               </a>
             </div>
           </div>
       </div>
+          <p>&nbsp;</p>
         </div><!--two-->
-      <div class="small-3 medium-3 columns"><!--three-->
-        <div class="special_offers" style="width: 268px;height: 350px;top: 1251px;left: 19px;z-index: 20028;border-width: 0px 1px;border-style: solid;border-color: rgb(237, 237, 237);">
-        <img src="packages_images/voyager_beach_pool.jpg" style="height: 200px;">
-        <div class="special_content" style="width: 230px;height: 44px;top: 1303px;left: 38px;z-index: 20033;">
-          <p style="font-size: 20px;color: #5785a9;"><b>Mombasa Package</b></p>
-          <p style="font-size: 13px;color: #a3a3a3;text-align: left;">Valid until 31<sup>st</sup> Aug 16 2016</p>
-          <p style="text-align: left;font-size: 19px;color: #fec02a">From  $475 P/P Sharing</p>
+      <div class="small-12 medium-6 large-3 columns"><!--three-->
+        <div class="special_offers home_page_offer_2">
+        <img src="packages_images/voyager_beach_pool.jpg">
+        <div class="special_content">
+          <p  id="mombasa_packages_p"><b>Mombasa Package</b></p>
+          <p id="valid">Valid until 31<sup>st</sup> Aug 16 2016</p>
+          <p id="from">From  $475 P/P Sharing</p>
           <div class="mjs-widget-content">
             <a href="#" class="button" style="height: 100%;background-color: transparent;">
-              <div style="vertical-align: middle;font-weight: bold;font-style: normal;text-decoration: none;margin-top: -1px;line-height: 1.2;text-align: left;font-size: 20px;
-    color: #ffffff;
-    letter-spacing: 0px;">BOOK NOW</div>
+              <div class="widget-button">BOOK NOW</div>
             </a>
           </div>
         </div>
       </div>
+          <p>&nbsp;</p>
       </div><!--three-->
-      <div class="small-3 medium-3 columns"><!--four-->
-        <div class="special_offers" style="width: 268px;height: 350px;top: 1251px;left: 19px;z-index: 20028;border-width: 0px 1px;border-style: solid;border-color: rgb(237, 237, 237);">
-          <img src="packages_images/SouthernSunWaterfrontCapeTown.jpg" style="height: 200px">
-          <div class="special_content" style="width: 230px;height: 44px;top: 1303px;left: 38px;z-index: 20033;">
-            <p style="font-size: 19px;color: #5785a9;"><b>South Africa Package</b></p>
-            <p style="font-size: 13px;color: #a3a3a3;text-align: left;">Valid until 31<sup>st</sup> Aug 16 2016</p>
-            <p style="text-align: left;font-size: 19px;color: #fec02a;">From  $475 P/P Sharing</p>
+      <div class="small-12 medium-6 large-3 columns"><!--four-->
+        <div class="special_offers  home_page_offer_2">
+          <img src="packages_images/SouthernSunWaterfrontCapeTown.jpg">
+          <div class="special_content">
+            <p id="south_africa_packages_p"><b>South Africa Package</b></p>
+            <p id="valid">Valid until 31<sup>st</sup> Aug 16 2016</p>
+            <p id="from">From  $475 P/P Sharing</p>
             <div class="mjs-widget-content">
               <a href="#" class="button" style="height: 100%;background-color: transparent;">
-                <div style="vertical-align: middle;font-weight: bold;font-style: normal;text-decoration: none;margin-top: -1px;line-height: 1.2;text-align: left;font-size: 20px;
-    color: #ffffff;
-    letter-spacing: 0px;">BOOK NOW</div>
+                <div class="widget-button">BOOK NOW</div>
               </a>
             </div>
           </div>
@@ -183,7 +160,7 @@
     </div><!--Special Offers-->
     <p>&nbsp;</p>
  <div class="row" style="padding-top: 30px;"><!--Special Offers-->
-      <div class="small-3 medium-3 columns"><!--5-->
+      <div class="small-12 medium-6 large-3 columns"><!--5-->
         <div class="special_offers home_page_offer_1">
            <img src="packages_images/Wildebeests_Migration3.jpg">
           <div class="special_content" style="width: 230px;height: 44px;top: 1303px;left: 38px;z-index: 20033;">
@@ -192,61 +169,56 @@
             <p style="text-align: left;font-size: 14px;color: #fec02a">From  Kshs.12500 P/P Sharing</p>
             <div class="mjs-widget-content">
               <a href="#" class="button" style="height: 100%;background-color: transparent;">
-                <div style="vertical-align: middle;font-weight: bold;font-style: normal;text-decoration: none;margin-top: -1px;line-height: 1.2;text-align: left;font-size: 20px;
-    color: #ffffff;
-    letter-spacing: 0px;">BOOK NOW</div>
+                <div class="widget-button">BOOK NOW</div>
               </a>
             </div>
           </div>
 
         </div>
+          <p>&nbsp;</p>
       </div><!--5-->
-      <div class="small-3 medium-3 columns"><!--6-->
+      <div class="small-12 medium-6 large-3 columns"><!--6-->
         <div class="special_offers home_page_offer_2">
           <img src="packages_images/seychelles.jpg">
           <div class="special_content" style="width: 230px;height: 44px;top: 1303px;left: 38px;z-index: 20033;">
             <p id="south_africa_packages_p"><b>Seychelles Package</b></p>
-            <p style="font-family: 'Arial';font-size: 13px;color: #a3a3a3;text-align: left;">Valid until 18<sup>th</sup> Mar 2016</p>
-            <p style="text-align: left;font-size: 19px;color: #fec02a;">From  $390 P/P Sharing</p>
+            <p id="valid">Valid until 18<sup>th</sup> Mar 2016</p>
+            <p id="from">From  $390 P/P Sharing</p>
             <div class="mjs-widget-content">
               <a href="#" class="button" style="height: 100%;background-color: transparent;">
-                <div style="vertical-align: middle;font-weight: bold;font-style: normal;text-decoration: none;margin-top: -1px;line-height: 1.2;text-align: left;font-size: 20px;
-    color: #ffffff;
-    letter-spacing: 0px;">BOOK NOW</div>
+                <div class="widget-button">BOOK NOW</div>
               </a>
             </div>
           </div>
       </div>
+          <p>&nbsp;</p>
         </div><!--6-->
-      <div class="small-3 medium-3 columns"><!--7-->
-        <div class="special_offers" style="width: 268px;height: 350px;top: 1251px;left: 19px;z-index: 20028;border-width: 0px 1px;border-style: solid;border-color: rgb(237, 237, 237);">
-        <img src="packages_images/voyager_beach_pool.jpg" style="height: 200px;">
-        <div class="special_content" style="width: 230px;height: 44px;top: 1303px;left: 38px;z-index: 20033;">
-          <p style="font-size: 20px;color: #5785a9;"><b>Mombasa Package</b></p>
-          <p style="font-size: 13px;color: #a3a3a3;text-align: left;">Valid until 31st Aug 16 2016</p>
-          <p style="text-align: left;font-size: 19px;color: #fec02a">From  $475 P/P Sharing</p>
+      <div class="small-12 medium-6 large-3 columns"><!--7-->
+        <div class="special_offers home_page_offer_2">
+        <img src="packages_images/voyager_beach_pool.jpg">
+        <div class="special_content">
+          <p id="mombasa_packages_p"><b>Mombasa Package</b></p>
+          <p id="valid">Valid until 31st Aug 16 2016</p>
+          <p id="from">From  $475 P/P Sharing</p>
           <div class="mjs-widget-content">
             <a href="#" class="button" style="height: 100%;background-color: transparent;">
-              <div style="vertical-align: middle;font-weight: bold;font-style: normal;text-decoration: none;margin-top: -1px;line-height: 1.2;text-align: left;font-size: 20px;
-    color: #ffffff;
-    letter-spacing: 0px;">BOOK NOW</div>
+              <div class="widget-button">BOOK NOW</div>
             </a>
           </div>
         </div>
       </div>
+          <p>&nbsp;</p>
       </div><!--7-->
-      <div class="small-3 medium-3 columns"><!--8-->
-        <div class="special_offers" style="width: 268px;height: 350px;top: 1251px;left: 19px;z-index: 20028;border-width: 0px 1px;border-style: solid;border-color: rgb(237, 237, 237);">
-          <img src="packages_images/SouthernSunWaterfrontCapeTown.jpg" style="height: 200px">
-          <div class="special_content" style="width: 230px;height: 44px;top: 1303px;left: 38px;z-index: 20033;">
-            <p style="font-size: 19px;color: #5785a9;"><b>South Africa Package</b></p>
-            <p style="font-size: 13px;color: #a3a3a3;text-align: left;">Valid until 31st Aug 16 2016</p>
-            <p style="text-align: left;font-size: 19px;color: #fec02a;">From  $475 P/P Sharing</p>
+      <div class="small-12 medium-6 large-3 columns"><!--8-->
+        <div class="special_offers home_page_offer_2">
+          <img src="packages_images/SouthernSunWaterfrontCapeTown.jpg">
+          <div class="special_content">
+            <p id="south_africa_packages_p"><b>South Africa Package</b></p>
+            <p id="valid">Valid until 31st Aug 16 2016</p>
+            <p id="from">From  $475 P/P Sharing</p>
             <div class="mjs-widget-content">
               <a href="#" class="button" style="height: 100%;background-color: transparent;">
-                <div style="vertical-align: middle;font-weight: bold;font-style: normal;text-decoration: none;margin-top: -1px;line-height: 1.2;text-align: left;font-size: 20px;
-    color: #ffffff;
-    letter-spacing: 0px;">BOOK NOW</div>
+                <div class="widget-button">BOOK NOW</div>
               </a>
             </div>
           </div>

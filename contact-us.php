@@ -86,8 +86,8 @@
     </div><!--phone-->
     <div class="small-4 medium-4 columns"><!--Email-->
       <p class="email"></p>
-      <p style="color:#FFF;padding-left:70px">info@splashworldltd.com </p>
-    </div><!--Email-->
+      <p style="color:#FFF;padding-left:70px"><a href="mailto:info@splashworldltd.com" style="color: #fff;">info@splashworldltd.com</a> </p>
+    </div><!--Email--> 
   </div><!-- contact info-->
   <div class="row" style="margin-top:20px;margin-bottom:20px"><!--contact form title-->
     <div class="small-12 medium-12 columns">
