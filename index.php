@@ -29,7 +29,11 @@
       <meta name="web_author" content="Bethel IT">
   </head>
   <body>
-
+  <div id="holiday" title="Book a Holiday">
+      <div class="row" style="height: 300px">
+          <div class="small-12 medium-12 large-12 columns"></div>
+      </div>
+  </div>
     <div class="row" id="slider" style="height:550px;"><!--Main Menu-->
       <div class=" small-12 medium-12 large-12 columns">
         <div class="">
@@ -89,9 +93,44 @@
     <div class="row"><!--Special Offers Packages-->
       <div class="small-12 medium-12 columns">
         <h3 style="text-align: center;font-size: 38px;color: #5785a9; font-weight: bold;">SPECIAL OFFERS</h3>
-<!--        <div style="width:83rem;height: 1px;top: 1012px;left: 20px; z-index: 20020;background: rgb(237, 237, 237);"></div>-->
       </div>
     </div><!--Special Offers Packages-->
+  <div class="row">
+      <div class="small-12 medium-6 large-3 columns"><!--new one-->
+          <div class="special_offers home_page_offer_1">
+              <img src="packages_images/baros-maldives_2.jpg">
+              <div class="special_content" style="width: 230px;height: 44px;top: 1303px;left: 38px;z-index: 20033;">
+                  <p id="zanzibar_packages_p"><b>Baros Maldives</b></p>
+                  <p  id="valid">Valid: 1<sup>st</sup> Apr - 31<sup>st</sup> Oct&nbsp;:Book by 30 April 2016. </p>
+                  <p  id="from">From   $2816 P/P Sharing</p>
+                  <div class="mjs-widget-content">
+                      <button class="button" id="holidays" style="height: 100%;background-color: transparent;">
+                          <div class="widget-button" >BOOK NOW</div>
+                      </button>
+                  </div>
+              </div>
+
+          </div>
+          <p>&nbsp;</p>
+          <p>&nbsp;</p>
+      </div><!--new one-->
+      <div class="small-12 medium-6 large-3 columns"><!--new two-->
+          <div class="special_offers home_page_offer_1">
+              <img src="packages_images/AVANI-Seychelles.jpg">
+              <div class="special_content" style="width: 230px;height: 44px;top: 1303px;left: 38px;z-index: 20033;">
+                  <p id="zanzibar_packages_p"><b>Avani Seychelles (5<sup>*</sup>)</b></p>
+                  <p  id="valid">Valid: 1<sup>st</sup> Apr - 31<sup>st</sup> Oct: Book by 31<sup>st</sup> July. </p>
+                  <p  id="from">From   $1380 P/P Sharing</p>
+                  <div class="mjs-widget-content">
+                      <button class="button" id="holidays" style="height: 100%;background-color: transparent;">
+                          <div class="widget-button" >BOOK NOW</div>
+                      </button>
+                  </div>
+              </div>
+
+          </div>
+          </div><!--new two-->
+  </div>
  <div class="row" style="padding-top: 30px;"><!--Special Offers-->
       <div class="small-12 medium-6 large-3 columns"><!--one-->
         <div class="special_offers home_page_offer_1">
@@ -101,9 +140,9 @@
             <p  id="valid">Valid until 31<sup>st</sup> Mar 16 2016</p>
             <p  id="from">From  $545 P/P Sharing</p>
             <div class="mjs-widget-content">
-              <a href="#" class="button" style="height: 100%;background-color: transparent;">
+              <button class="button" id="holidays" style="height: 100%;background-color: transparent;">
                 <div class="widget-button" >BOOK NOW</div>
-              </a>
+              </button>
             </div>
           </div>
 
@@ -118,9 +157,9 @@
             <p id="valid">Valid until 31<sup>st</sup> Mar 16 2016</p>
             <p id="from">From  $645 P/P Sharing</p>
             <div class="mjs-widget-content">
-              <a href="#" class="button" style="height: 100%;background-color: transparent;">
+              <button class="button" style="height: 100%;background-color: transparent;">
                 <div class="widget-button">BOOK NOW</div>
-              </a>
+              </button>
             </div>
           </div>
       </div>
@@ -214,10 +253,10 @@
           <img src="packages_images/SouthernSunWaterfrontCapeTown.jpg">
           <div class="special_content">
             <p id="south_africa_packages_p"><b>South Africa Package</b></p>
-            <p id="valid">Valid until 31st Aug 16 2016</p>
+            <p id="valid">Valid until 31<sup>st</sup> Aug 2016</p>
             <p id="from">From  $475 P/P Sharing</p>
             <div class="mjs-widget-content">
-              <a href="#" class="button" style="height: 100%;background-color: transparent;">
+              <a href="#" class="button" id="holidays" style="height: 100%;background-color: transparent;">
                 <div class="widget-button">BOOK NOW</div>
               </a>
             </div>

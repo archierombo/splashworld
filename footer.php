@@ -82,6 +82,9 @@
 <script>
     $(document).foundation();
 </script>
+<script src="./jquery-ui-1.11.4/external/jquery/jquery.js"></script>
+<script src="./jquery-ui-1.11.4/jquery-ui.js"></script>
+
  <script src="http://code.jquery.com/jquery.min.js"></script>
     <!--vegas css-->
     <link href="vegas/dist/vegas.css" rel="stylesheet">
@@ -108,6 +111,70 @@
         preload:false,
         preloadImage:true
       });
-    </script>
+        </script>
+<script src="./jquery-ui-1.11.4/external/jquery/jquery.js"></script>
+<script src="./jquery-ui-1.11.4/jquery-ui.js"></script>
+<script>
+    $(function() {
+        var maxWidth = $( ".selector" ).dialog( "option", "width" );
+        $( "#dialog" ).dialog({
+            autoOpen: false,
+            width:800,
+            show: {
+                effect: "slide",
+                direction:"down",
+                duration: 2000
+            },
+            hide: {
+                effect: "puff",
+                duration: 1500
+            }
+        });
+
+        $( "#opener" ).click(function() {
+            $( "#dialog" ).dialog( "open" );
+            $("#holiday").dialog("close");
+        });
+    });
+    $(function() {
+        $( "#datepicker" ).datepicker();
+    });
+    $(function() {
+        $( "#datepicker1" ).datepicker();
+    });
+    $(function() {
+        $( "#datepicker2" ).datepicker();
+    });
+    $(function() {
+        $( "#depaturedate" ).datepicker();
+    });
+    $(function(){
+        var maxWidth = $( ".selector" ).dialog( "option", "width" );
+        $("#holiday").dialog({
+            autoOpen:false,
+            width:1050,
+            height:450,
+            show:{
+                effect:"slide",
+                direction:"right",
+                duration:2500
+
+            },
+            hide:{
+                effect:"slide",
+                direction:"left",
+                duration:1500
+            }
+
+        });
+        $("#holidays").click(function(){
+            $("#holiday").dialog("open");
+            $( "#dialog" ).dialog( "close" );
+
+        });
+
+    });
+</script>
+
 </body>
 </html>
